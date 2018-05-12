@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8840
     wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40869#True-Bear-Stories
 gutenberg_issued: '2012-09-26'
 gutenberg_type: Text
 identifiers:
